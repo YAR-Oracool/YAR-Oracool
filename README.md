@@ -11,17 +11,17 @@ Interests 🤔
 + Programing 💾
 + Writting ✍️
 
-Studying 📚
+Learning 📚
 ========
 + C++
 + LaTeX (Know it pretty well thou)
-+ Japanese Cooking
++ Decorate and Zscript
++ Voxel Modelling
 
 Current Project 💼
 ===============
-+ A Private translation job
-+ A music video for the Uprising track from Muse (Not related to the band at all)
-+ **Ion Fury** fan game called **Not Ion Fury** using **Touch Designer**
++ 2 games running on GZDoom
++ A custome primitive game engine
 <!---
 YAR-Oracool/YAR-Oracool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
